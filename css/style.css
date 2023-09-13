@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #ffffff;
+}
+
+h1{
+  padding: 15px;
+
+}
+
+h2{
+    font: 30px;
+    color: #0D0D0D;
+}
+
+p {
+   font: 24px;
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
+img{
+    width: 250px;
+}
